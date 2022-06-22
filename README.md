@@ -1,2 +1,2 @@
 # metrocard-finder-nyc-hudsonvalley
-Find Metrocard retailers in NYC and surrounding counties 
+Find small business Metrocard retailers in NYC and surrounding counties 
