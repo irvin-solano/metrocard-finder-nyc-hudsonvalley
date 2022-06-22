@@ -2,3 +2,6 @@ bundle.js
 .env
 .config
 node_modules
+yarn.lock
+.eslintrc.js
+.DS_Store
