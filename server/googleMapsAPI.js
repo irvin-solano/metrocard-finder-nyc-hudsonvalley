@@ -12,6 +12,6 @@ const extractAddress = (place) => {
   console.log(address.trim());
   return address.trim();
 };
-axios.get(googleAPI.findPlaceUrl, { params: { input: extractAddress(manhattan[0]), inputtype: 'textquery', key: 'AIzaSyA7Jqe2tZpKOIaQmNvLcWq4cCxDK-1mCgo' } })
+axios.get(googleAPI.findPlaceUrl, { params: { input: extractAddress(manhattan[0]), inputtype: 'textquery', key: '' } })
   .then((res) => console.log(JSON.stringify(res)))
   .catch((err) => JSON.stringify(err));
