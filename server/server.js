@@ -24,7 +24,7 @@ const googleAPI = {
   placeDetailsUrl: 'https://maps.googleapis.com/maps/api/place/details/json',
   geocodeUrl: 'https://maps.googleapis.com/maps/api/geocode/json',
 };
-const key = 'AIzaSyA7Jqe2tZpKOIaQmNvLcWq4cCxDK-1mCgo';
+const key = '';
 
 // app.get('/makeCSV', (req, res) => {
 //   const recFunc = () => {
